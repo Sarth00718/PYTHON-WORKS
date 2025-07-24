@@ -1,0 +1,12 @@
+a="sarth"
+b=234
+c=23.54
+d=True
+print(a)
+print(b)
+print(c)
+print(d)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))

@@ -1,0 +1,79 @@
+# Core Data Analysis
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+pytesseract
+pdf2image
+
+# Deep Learning
+# tensorflow
+# keras
+# torch
+# torchvision
+# torchaudio
+
+# NLP
+nltk
+spacy
+transformers
+sentence-transformers
+textblob
+torchvision
+
+# gensim
+# flair
+
+# Computer Vision
+opencv-python
+opencv-python-headless
+Pillow
+scikit-image
+# imageio
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+# bokeh
+# altair
+wordcloud
+
+# Jupyter & Notebooks
+jupyter
+notebook
+jupyterlab
+ipykernel
+# ipywidgets
+
+# Model Evaluation / Explainability
+# shap
+# lime
+
+# Web scraping / APIs (optional but useful for NLP)
+# beautifulsoup4
+# lxml
+# requests
+# tqdm
+
+# Data Cleaning / Utility
+# python-dotenv
+# pyyaml
+# tabulate
+
+# Optional: Visualization enhancements
+# missingno
+# pandas-profiling
+# sweetviz
+
+# Optional: Cloud & Deployment
+# flask
+# fastapi
+# uvicorn
+# streamlit
+# gradio
